@@ -1,0 +1,7 @@
+.section {
+  display: grid;
+  place-items: center;
+}
+.section > * {
+  text-align: left;
+}

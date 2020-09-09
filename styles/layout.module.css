@@ -1,0 +1,21 @@
+.root {
+  display: grid;
+  grid-template-rows: auto 1fr auto;
+  height: 100vh;
+}
+
+.main {
+  text-align: center;
+}
+
+.header h1 {
+  font-variant: small-caps;
+  font-size: 1.7rem;
+  margin: 0;
+}
+
+.header,
+.footer {
+  padding: 1rem;
+  background-color: coral;
+}

@@ -36,3 +36,8 @@ a:hover {
   text-decoration-style: wavy;
   text-decoration-color: tomato;
 }
+
+ul {
+  padding-left: 0;
+  margin-left: 0;
+}
